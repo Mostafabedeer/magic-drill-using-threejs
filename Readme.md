@@ -1,6 +1,6 @@
 # Threejs + GSAP + WEBGi
 
-⚡️ Live Link: [http://drill-webgi-tutorial.vercel.app](http://drill-webgi-tutorial.vercel.app)
+⚡️ Live Link: [http://drill-webgi-tutorial.vercel.app](https://magic-drill-using-threejs.vercel.app/)
 
 <a href="http://drill-webgi-tutorial.vercel.app"><img src="assets/images/preview.jpg" style="border: 1px solid black"></a>
 
