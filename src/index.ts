@@ -131,7 +131,6 @@ async function setupViewer() {
         end: "top top",
         scrub: true,
         immediateRender: false,
-        markers: true,
       },
       onUpdate,
     })
