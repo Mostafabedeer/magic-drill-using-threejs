@@ -1,12 +1,11 @@
 {
-  "name": "threejs-gsap-webgi-course",
+  "name": "threejs-gsap-webgi",
   "version": "1.0.0",
   "description": "WebGi + TypeScript example starter project",
   "main": "index.html",
   "author": {
-    "name": "Anderson Mancini",
-    "email": "andersonmancini30@gmail.com",
-    "url": "https://twitter.com/Andersonmancini/"
+    "name": "Mostafa Beder",
+    "email": "mostafabder2@gmail.com"
   },
   "scripts": {
     "start": "parcel index.html",
